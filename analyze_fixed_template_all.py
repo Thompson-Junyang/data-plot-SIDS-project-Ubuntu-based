@@ -1,3 +1,9 @@
+# python3 analyze_fixed_template_all.py     --csv distance_log_50cm.csv distance_log_70cm.csv distance_log_90cm.csv distance_log_110cm.csv distance_log_130cm.csv distance_log_150cm.csv distance_log_170cm.csv distance_log_190cm.csv distance_log_210cm.csv distance_log_230cm.csv distance_log_250cm.csv distance_log_270cm.csv distance_log_290cm.csv    --fmin 0.4 --fmax 1.0     --t-plot 999999
+
+
+
+
+
 # #!/usr/bin/env python3
 # import argparse
 # import csv
